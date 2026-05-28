@@ -1,0 +1,1142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Obscuro Disco</title>
+    <atom:link href="https://navels.github.io/obscuro-disco/obscuro-disco.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.discoitalo.com/shows/</link>
+    <description>Exploring 80s European Disco</description>
+    <lastBuildDate>Sun, 28 Nov 2021 22:16:53 +0000</lastBuildDate>
+    <language>en-US</language>
+    <generator>generate_podcast_rss.py</generator>
+    <itunes:summary>Exploring 80s European Disco</itunes:summary>
+    <itunes:author>DiscoItalo.com</itunes:author>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>DiscoItalo.com</itunes:name>
+      <itunes:email>david@dthunter.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.discoitalo.com/wp-content/uploads/2021/02/ObscuroDisco-podcast.jpg" />
+    <image>
+      <title>Obscuro Disco</title>
+      <url>https://www.discoitalo.com/wp-content/uploads/2021/02/ObscuroDisco-podcast.jpg</url>
+      <link>https://www.discoitalo.com/shows/</link>
+    </image>
+    <itunes:category text="Music">
+      <itunes:category text="Music History" />
+    </itunes:category>
+    <item>
+      <title>Italo Disco After the 1980s - Part 2</title>
+      <link>https://www.discoitalo.com/2021/11/28/italo-disco-after-the-1980s-part-2/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=352</guid>
+      <description>More Italo Disco songs after the 1980s.
+
+Playlist:
+1. I’m Needin’ You - Fun Fun (1994 / Italy / 05:48)
+2. Street Groove - Clio &amp; Kay (1990 / Italy / 06:49)
+3. Swiss Cows - Tam Harrow (2017 / USA / 05:28)
+4. Keep on Rolling - Tom Hooker (2021 / Italy / 03:07)
+5. Rockawillie - Sabrina Salerno (1994 / Italy / 03:34)
+6. Video Games - De Niro (1991 / Italy / 07:00)
+7. Face to Face - Albert One (2015 / Italy / 05:45)
+8. I Always Dream About You - Spagna (1993 / Italy / 04:36)
+9. Something - Savage (1993 / Italy / 05:49)
+10. U.S.A. - Joe Yellow (1992 / Italy / 05:16)
+11. You and the Sunshine - Den Harrow (1993 / Italy / 05:44)</description>
+      <pubDate>Sun, 28 Nov 2021 22:16:53 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1989-part2.mp3" type="audio/mpeg" length="83501941" />
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>57:59</itunes:duration>
+      <itunes:subtitle>More Italo Disco songs after the 1980s.</itunes:subtitle>
+      <itunes:summary>More Italo Disco songs after the 1980s.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/11/28203711/After80sPart2-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco After the 1980s - Part 1</title>
+      <link>https://www.discoitalo.com/2021/11/14/italo-disco-after-the-1980s-part-1/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=347</guid>
+      <description>The next two shows will be a kind of “Where were they after 1989?” These songs will sound more like House and Techno.
+
+Playlist:
+1. Do You Wanna Dance - Miko Mission (2020 / Italy / 03:47)
+2. Hey Señorita - Eddy Huntington (1990 / Italy / 03:49)
+3. Shake Your Head - CC Catch (2003 / Germany / 03:18)
+4. Shut Up (And Sleep With Me) - Sin With Sebastian (1995 / Germany / 03:47)
+5. E-mail box - Ken Laszlo (1998 / Italy / 05:13)
+6. Burn In His Hands - P. Lion (1991 / Italy / 05:10)
+7. Champion’s Cue - Koto (1990 / Italy / 06:01)
+8. Do You Want Me (Let’s Go) - Lee Marrow (1990 / Italy / 06:27)
+9. Don’t Be Aggressive - Sandra (1992 / Germany / 04:48)
+10. TV Makes the Superstar - Modern Talking (2003 / Germany / 03:46)
+11. The Beat Goes On - Ryan Paris (1992 / Italy / 04:01)</description>
+      <pubDate>Sun, 14 Nov 2021 22:48:25 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-After1980s-Part1.mp3" type="audio/mpeg" length="82468298" />
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>57:16</itunes:duration>
+      <itunes:subtitle>The next two shows will be a kind of “Where were they after 1989?” These songs will sound more like House and Techno.</itunes:subtitle>
+      <itunes:summary>The next two shows will be a kind of “Where were they after 1989?” These songs will sound more like House and Techno.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/11/14224436/After80sPart1-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Review 1980-1989</title>
+      <link>https://www.discoitalo.com/2021/11/08/italo-disco-review-1980-1989/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=342</guid>
+      <description>We spent the past shows from 1980 to 1989 through Italo Disco and Euro Disco songs. I’ll play one song from each year. 10 songs 1 from each year in the 1980s.
+
+Playlist:
+1. I Wanna Be Your Lover - La Bionda (1980 / Italy / 03:15)
+2. Can’t Hold Back (Your Loving) - Kano (1981 / Italy / 04:45)
+3. Dirty Talk - Klein &amp; M.B.O. (1982 / Italy / 05:36)
+4. Dolce Vita - Ryan Paris (1983 / Italy / 03:55)
+5. Tarzan Boy - Baltimora (1984 / Italy / 06:19)
+6. Faces - Clio &amp; Roberto Ferrante (1985 / Italy / 05:41)
+7. Jabdah - Koto (1986 / Italy / 07:35)
+8. Don’t Break My Heart - Den Harrow (1987 / Italy / 03:53)
+9. I’m Loosing You - Savage (1988 / Italy / 03:28)
+10. You Drive Me Crazy - Reflectors (1989 / Italy / 05:00)</description>
+      <pubDate>Mon, 08 Nov 2021 04:22:54 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1980-1989.mp3" type="audio/mpeg" length="80082583" />
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>55:36</itunes:duration>
+      <itunes:subtitle>We spent the past shows from 1980 to 1989 through Italo Disco and Euro Disco songs. I’ll play one song from each year. 10 songs 1 from each year in the 1980s.</itunes:subtitle>
+      <itunes:summary>We spent the past shows from 1980 to 1989 through Italo Disco and Euro Disco songs. I’ll play one song from each year. 10 songs 1 from each year in the 1980s.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/11/08042103/80-89-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1989 Part 2</title>
+      <link>https://www.discoitalo.com/2021/10/11/italo-disco-songs-from-1989-part-2/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=335</guid>
+      <description>It's the last of our year-by-year series in the 1980s. We've got some fun singles mostly from Italy and some from Germany.
+
+Playlist:
+1. You Never Said Goodbye - Cherry Lime (1989 / Canada / Italy / 07:35)
+2. Sex - Sabrina (1989 / Italy / 04:13)
+3. Guy Guy - Max Coveri (1989 / Italy / 06:11)
+4. You Drive Me Crazy - Reflectors (1989 / Italy / 05:00)
+5. Love Games - Robert Camero (1989 / Italy / 06:28)
+6. No Tears - Fancy (1989 / Germany / 03:19)
+7. Fashion - Noname (1989 / Germany / 06:54)
+8. Fantasy Boy - New Baccara (1989 / Germany / 03:54)
+9. Boom Boom Dollars - King Kong &amp; D’Jungle Girls (1989 / Italy / 03:02)
+10. Bang Bang Baby - Eddy Huntington (1989 / Italy / 04:00)
+11. Boom Boom - Tina (1989 / Italy / 06:08)</description>
+      <pubDate>Mon, 11 Oct 2021 03:52:10 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1989-part2.mp3" type="audio/mpeg" length="83501941" />
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>57:59</itunes:duration>
+      <itunes:subtitle>It's the last of our year-by-year series in the 1980s. We've got some fun singles mostly from Italy and some from Germany.</itunes:subtitle>
+      <itunes:summary>It's the last of our year-by-year series in the 1980s. We've got some fun singles mostly from Italy and some from Germany.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/10/11035044/1989-p2-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1989 Part 1</title>
+      <link>https://www.discoitalo.com/2021/09/23/italo-disco-songs-from-1989-part-1/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=330</guid>
+      <description>The final year of the 80s. 80s disco has very much become house music at this point, but let's check in on what was released in 1989.
+
+Playlist:
+1. One Step To Heaven - Miko Mission (1989 / Italy / 05:04)
+2. Give Me Love - Fun Fun (1989 / Italy / 04:15)
+3. I Love You - Helen (1989 / Italy / 07:59)
+4. Your Body Your Feeling - Toys For Boys (1989 / France / 04:25)
+5. I Just Died In Your Arms - Savage (1989 / Italy / 05:36)
+6. Physical Attraction - Eddy Huntington (1989 / Italy / 04:19)
+7. Holiday Night - Den Harrow (1989 / Italy / 03:59)
+8. Touch Me Baby - Sharon (1989 / Switzerland / 03:28)
+9. Baby I Need Your Lovin’ - Jerome Stocks (1989 / Italy / 05:59)
+10. Atfalouna - Hassan Ideddir (1989 / France / 04:05)
+11. Wild Boy - Joe Yellow (1989 / Italy / 06:04)</description>
+      <pubDate>Thu, 23 Sep 2021 01:59:55 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1989-part1.mp3" type="audio/mpeg" length="83818878" />
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>58:12</itunes:duration>
+      <itunes:subtitle>The final year of the 80s. 80s disco has very much become house music at this point, but let's check in on what was released in 1989.</itunes:subtitle>
+      <itunes:summary>The final year of the 80s. 80s disco has very much become house music at this point, but let's check in on what was released in 1989.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/09/23011239/1989-p1-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1988 Part 4</title>
+      <link>https://www.discoitalo.com/2021/09/12/italo-disco-songs-from-1988-part-4/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=323</guid>
+      <description>More Italo Disco songs from 1988! Includes more songs that involve Giuliano Crivellente, Mauro Farina, and Clara Maroni.
+
+Playlist:
+1. A World Without You - Bad Boys Blue (1988 / Germany / 03:37)
+2. ByT&amp;E - Syntech (1988 / Netherlands / 05:45)
+3. Naughty Boy - MacHo Gang (1988 / Italy / 03:59)
+4. Runaway - Jasmine (1988 / Italy / 05:31)
+5. Everything You Love (Dolce Vita Edit) - Chip Chip (1988 / Italy / 06:13)
+6. Viens Tu a Danser - P. J. Marcus (1988 / Italy / 06:43)
+7. Love Is Like a Bird - Cristina (1988 / Italy / 04:55)
+8. Tonight - Valentino (1988 / Italy / 07:46)
+9. It’s So Funny (Extended Banana Version) - King Kong &amp; D’Jungle Girls (1988 / Italy / 05:53)
+10. Dimmi Dimmi - Dalla / Morandi (1988 / Italy / 08:10)</description>
+      <pubDate>Sun, 12 Sep 2021 19:14:36 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1988-part4.mp3" type="audio/mpeg" length="87035579" />
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:00:26</itunes:duration>
+      <itunes:subtitle>More Italo Disco songs from 1988! Includes more songs that involve Giuliano Crivellente, Mauro Farina, and Clara Maroni.</itunes:subtitle>
+      <itunes:summary>More Italo Disco songs from 1988! Includes more songs that involve Giuliano Crivellente, Mauro Farina, and Clara Maroni.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1988 Part 3</title>
+      <link>https://www.discoitalo.com/2021/09/04/italo-disco-songs-from-1988-part-3/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=316</guid>
+      <description>This is our third show on Italo and Euro disco from the year 1988. Most of the songs tonight are from Italy, with a couple from Netherlands and the UK.
+
+Playlist:
+1. ABCD - Radiorama (1988 / Italy / 07:13)
+2. Like a Yo Yo - Sabrina (1988 / Italy / 03:27)
+3. Born To Love - Den Harrow (1988 / Italy / 04:25)
+4. Hot Love - Jenny Kee (1988 / Italy / 06:40)
+5. Boys And Girls - Mandy Smith (1988 / UK / 03:44)
+6. Upside Down - Coo Coo (1988 / Italy / 07:51)
+7. Awaka Boy - Tatjana (1988 / Netherlands / 04:08)
+8. Lost In Paris - Fred Ventura (1988 / Italy / 06:57)
+9. I Believe - Miko Mission (1988 / Italy / 06:20)
+10. I’m singing again - Wilson Ferguson (1988 / Italy / 03:31)</description>
+      <pubDate>Sat, 04 Sep 2021 18:09:33 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1988-part3.mp3" type="audio/mpeg" length="81746765" />
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>56:46</itunes:duration>
+      <itunes:subtitle>This is our third show on Italo and Euro disco from the year 1988. Most of the songs tonight are from Italy, with a couple from Netherlands and the UK.</itunes:subtitle>
+      <itunes:summary>This is our third show on Italo and Euro disco from the year 1988. Most of the songs tonight are from Italy, with a couple from Netherlands and the UK.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/09/12191138/1988-p3-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1988 Part 2</title>
+      <link>https://www.discoitalo.com/2021/08/24/italo-disco-songs-from-1988-part-2/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=311</guid>
+      <description>Part 2 of 1988 Italo Disco. 9 songs from Italy and 1 from Germany. More singles by Sabrina, Savage, Albert One, and Cyber People.
+
+Playlist:
+1. Children of the Sky - Giorgia Morandi (1988 / Italy / 07:07)
+2. Tell Me The Reason - Alan Barry (1988 / Italy / 06:09)
+3. For Your Love - Roby Rotondo (1988 / Italy / 05:19)
+4. I’m Loosing You - Savage (1988 / Italy / 03:28)
+5. My Chico - Sabrina (1988 / Italy / 03:41)
+6. Only One Night - The Hurricanes (1988 / Germany / 03:36)
+7. I Wanna Be Your Love - Rose (1988 / Italy / 06:30)
+8. Digital Signal Processor - Cyber People (1988 / Italy / 06:58)
+9. Everybody - Albert One (1988 / Italy / 05:08)
+10. Over Again - Brian Ice (1988 / Italy / 04:30)</description>
+      <pubDate>Tue, 24 Aug 2021 04:49:38 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1988-part2.mp3" type="audio/mpeg" length="77302676" />
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>53:41</itunes:duration>
+      <itunes:subtitle>Part 2 of 1988 Italo Disco. 9 songs from Italy and 1 from Germany. More singles by Sabrina, Savage, Albert One, and Cyber People.</itunes:subtitle>
+      <itunes:summary>Part 2 of 1988 Italo Disco. 9 songs from Italy and 1 from Germany. More singles by Sabrina, Savage, Albert One, and Cyber People.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/08/24044817/1988-p2-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1988 Part 1</title>
+      <link>https://www.discoitalo.com/2021/08/16/italo-disco-songs-from-1988-part-1/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=304</guid>
+      <description>This kicks off our dive into Italo and Euro disco from 1988. 1988 is considered the end of the age of Italo Disco as music evolves into Hi NRG and house music.
+
+Playlist:
+1. Disco Night - Digitronic (1988 / Switzerland / 03:39)
+2. Big Brother - Aleph (1988 / Italy / 06:38)
+3. Easy Lovers - Joe Yellow (1988 / Italy / 05:41)
+4. You’re the One - 1000 Ohm (1988 / Belgium / 04:52)
+5. Divine - Mike Hammer (1988 / Italy / 06:01)
+6. Dragon’s Legend - Koto (1988 / Italy / 03:45)
+7. Bad Girls - Radiorama (1988 / Italy / 06:46)
+8. May Day - Eddy Huntington (1988 / Italy / 04:32)
+9. Dance with Me - Claudia T. (1988 / Netherlands / 05:18)
+9. Disco Maniac - Baby’s Gang (1988 / Italy / 05:37)
+10. Every Girl and Boy - Spagna (1988 / Italy / 03:40)
+11. Don’t Treat Me So Bad - Linda “Babe” Majika (1988 / South Africa / 04:14)</description>
+      <pubDate>Mon, 16 Aug 2021 02:00:19 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1988-part1.mp3" type="audio/mpeg" length="91808956" />
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:03:45</itunes:duration>
+      <itunes:subtitle>This kicks off our dive into Italo and Euro disco from 1988. 1988 is considered the end of the age of Italo Disco as music evolves into Hi NRG and house music.</itunes:subtitle>
+      <itunes:summary>This kicks off our dive into Italo and Euro disco from 1988. 1988 is considered the end of the age of Italo Disco as music evolves into Hi NRG and house music.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/08/16015857/1988-p1-podcast-1.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1987 Part 6</title>
+      <link>https://www.discoitalo.com/2021/08/10/italo-disco-songs-from-1987-part-6/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=298</guid>
+      <description>Wrapping up our dive into songs from 1987, we've got a few from Italy and a bunch from Netherlands and Germany as well as Spain and Switzerland.</description>
+      <pubDate>Tue, 10 Aug 2021 02:19:56 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1987-part6.mp3" type="audio/mpeg" length="83781150" />
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>58:11</itunes:duration>
+      <itunes:subtitle>Wrapping up our dive into songs from 1987, we've got a few from Italy and a bunch from Netherlands and Germany as well as Spain and Switzerland.</itunes:subtitle>
+      <itunes:summary>Wrapping up our dive into songs from 1987, we've got a few from Italy and a bunch from Netherlands and Germany as well as Spain and Switzerland.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/08/10013509/1987-p6-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1987 Part 5</title>
+      <link>https://www.discoitalo.com/2021/08/02/italo-disco-songs-from-1987-part-5/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=293</guid>
+      <description>More italo disco and euro disco songs from 1987. A few songs from Germany, a couple from Italy, and one from Spain and France.
+
+Playlist:
+1. Mathematic Dance - Jerry Co (1987 / Belgium / 05:30)
+2. Fire - Radiorama (1987 / Italy / 05:49)
+3. In The Dark - Limit Eccitation (1987 / Italy / 04:37)
+4. The Voice I Feel Inside - Ken Scott (1987 / Italy / 06:27)
+5. C’est l’amour - Léopold Nord &amp; Vous (1987 / Belgium / 03:24)
+6. Jet Airliner - Modern Talking (1987 / Germany / 04:20)
+7. Mata Hari - Mata Hari (1987 / Spain / 08:11)
+8. Money - Mauro Marani (1987 / Italy / 05:00)
+9. Into the Night - Michael Fortunati (1987 / France / 03:49)
+10. Harlem Desire - London Boys (1987 / Germany / 03:46)
+11. Catch Me - Candy (1987 / Germany / 06:22)</description>
+      <pubDate>Mon, 02 Aug 2021 03:02:29 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1987-part5.mp3" type="audio/mpeg" length="83542644" />
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>58:01</itunes:duration>
+      <itunes:subtitle>More italo disco and euro disco songs from 1987. A few songs from Germany, a couple from Italy, and one from Spain and France.</itunes:subtitle>
+      <itunes:summary>More italo disco and euro disco songs from 1987. A few songs from Germany, a couple from Italy, and one from Spain and France.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/08/01231647/1987-p5-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Rain Boot Mix Vol 2</title>
+      <link>https://www.discoitalo.com/2021/07/24/italo-rain-boot-mix-vol-2/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=289</guid>
+      <description>Italo Rain Boot Mix includes 59 songs in 90 minutes. DJ Dez Disco mixes some of his favorite Italo Disco and Euro Disco songs from the past shows.
+
+Playlist:
+1. Precious Little Diamond - Fox The Fox (1984 / Netherlands)
+2. Diamond - P4f (1986 / Italy)
+3. Heart on Fire - Albert One (1985 / Italy)
+4. Are You Ready - Break Machine (1984 / USA)
+5. How Old Are You - Miko Mission (1984 / Italy)
+6. Movin On - Novecento (1984 / Italy)
+7. Loving In The Snow - Ocean Wings (1986 / Italy)
+8. Japanese War Game - Koto (1983 / Italy)
+9. Don’t Break My Heart - Den Harrow (1987 / Italy)
+10. The World Is You - Miko Mission (1984 / Italy)
+11. I Love You Dancer - Voyage (1980 / France)
+12. Jabdah - Koto (1986 / Italy)
+13. Disco Maniac - Denise &amp; Babys Gang (1988 / Italy)
+14. Cause You Are Young - C.C. Catch (1986 / Germany)
+15. Forever - Telex News (1985 / Italy)
+16. Believe in Yourself - The Creatures (1983 / Italy)
+17. Love Theme from Flexxy-Ball (You’ll Never Change No More) - Flexx (1983 / Italy)
+18. P. Machinery Medley with Relax - P4f (1986 / Italy)
+19. Street Dance - Break Machine (1984 / USA)
+20. Venture In My Heart - Marco Martina (1986 / Italy)
+21. Little Russian - Mr.Zivago (1987 / Italy)
+22. Mama Radio - Rudy &amp; Co. (1985 / Italy)
+23. Broken Radio - Den Harrow (1985 / Italy)
+24. For Your Love - Albert One (1986 / Italy)
+25. Secrets - Albert One (1986 / Italy)
+26. I Wanna Be Your Lover - La Bionda (1980 / Italy)
+27. Call Me Mr. Telephone - Answering Service (1984 / Italy)
+28. L.o.v.e. in My Car - Bad Boys Blue (1984 / Germany)
+29. Overpower - Den Harrow (1985 / Italy)
+30. Heroes - Big Ben Tribe (1983 / Italy)
+31. Shine Shine Shine - Mania (1986 / Italy)
+32. I Should Be So Lucky - Kylie Minogue (1987 / Australia)
+33. Play The Game - Rudy &amp; Co. (1986 / Italy)
+34. The Years - Fred Ventura (1985 / Italy)
+35. Another Life - Kano (1983 / Italy)
+36. If Are You Master - Silvy Foster (1980 / Italy)
+37. Wallet Woman - Tileface (1981 / Italy)
+38. Somebody (Hey Girl) - Video (1983 / Italy)
+39. Toledo Girl - Little Jack Jingle (1984 / Italy)
+40. Hi Girl - Jimmy McFoy (1985 / Italy)
+41. Heigh Ho - Fabian Nesti (1986 / Italy)
+42. People From Ibiza - Sandy Marton (1984 / Croatia)
+43. Don’t Runaway - Myxoma (1984 / Italy)
+44. Everybody Is Gay - Latin Rose (1986 / Spain)
+45. Zorro - My Mine (1984 / Italy)
+46. Nothing - Body Power (1986 / Italy)
+47. Charleston - Den Harrow (1986 / Italy)
+48. Zighidizazazero - Databook (1986 / Italy)
+49. Living in Your Eyes - Closed (1987 / Spain)
+50. Life Is Very Short - One System (1987 / Italy)
+51. Feel The Drive - Doctor`s Cat (1983 / Italy)
+52. I Love the Piano - Kasso (1984 / Italy)
+53. Living In The Shuttle - Torrevado (1985 / Italy)
+54. Only One - Tom Hooker (1986 / Italy)
+55. Hey Tonight - Atrium (1985 / Italy)
+56. Living In A Rom - G.G. Near (1986 / Italy)
+57. Dr. Faustus - Cyber People (1986 / Italy)
+58. Baila - Ivan (1985 / Spain)
+59. I Want an Illusion - Squash Gang (1986 / Spain)</description>
+      <pubDate>Sat, 24 Jul 2021 17:11:56 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-RainBootMix-Vol02.mp3" type="audio/mpeg" length="127841541" />
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:28:46</itunes:duration>
+      <itunes:subtitle>Italo Rain Boot Mix includes 59 songs in 90 minutes. DJ Dez Disco mixes some of his favorite Italo Disco and Euro Disco songs from the past shows.</itunes:subtitle>
+      <itunes:summary>Italo Rain Boot Mix includes 59 songs in 90 minutes. DJ Dez Disco mixes some of his favorite Italo Disco and Euro Disco songs from the past shows.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/07/24165917/ItaloRainBootMix-vol2.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1987 Part 4</title>
+      <link>https://www.discoitalo.com/2021/07/19/italo-disco-songs-from-1987-part-4/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=284</guid>
+      <description>More songs from 1987! We've got seven songs from Italy, a couple from Germany and some from Netherlands, Austria, and Spain. Including four first singles.</description>
+      <pubDate>Mon, 19 Jul 2021 06:03:27 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1987-part4.mp3" type="audio/mpeg" length="89788248" />
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:02:21</itunes:duration>
+      <itunes:subtitle>More songs from 1987! We've got seven songs from Italy, a couple from Germany and some from Netherlands, Austria, and Spain. Including four first singles.</itunes:subtitle>
+      <itunes:summary>More songs from 1987! We've got seven songs from Italy, a couple from Germany and some from Netherlands, Austria, and Spain. Including four first singles.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/07/18185105/1987-p4-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1987 Part 3</title>
+      <link>https://www.discoitalo.com/2021/07/12/italo-disco-songs-from-1987-part-3/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=277</guid>
+      <description>We’re going back to 1987 for part 3 of our dive into 80s Disco. Most of the songs tonight are from Italy, just one from Germany.
+
+Playlist:
+1. Don’t Break My Heart - Den Harrow (1987 / Italy / 03:53)
+2. You and Me - Funny Twins (1987 / Italy / 05:22)
+3. Don’t Stop The Music - Lee Marrow (1987 / Italy / 03:53)
+4. Glasses Man - Ken Laszlo (1987 / Italy / 04:12)
+5. So Close To Heaven - Chip Chip (1987 / Italy / 04:02)
+6. Soul Survivor - C.C. Catch (1987 / Germany / 05:00)
+7. Heartbeat - Vivien Vee (1987 / Italy / 03:57)
+8. Imagine (You’ll Never Change Your Mind) - Fred Ventura (1987 / Italy / 04:00)
+9. Hot girl - Sabrina (1987 / Italy / 03:27)
+10. Notorious Medley with Le Freak - P4f (1987 / Italy / 04:08)
+11. Barabba - Barbie (1987 / Italy / 03:54)
+12. Keep On Living - Oxo (1987 / Italy / 05:45)
+13. Shankle - Tozzo (1987 / Italy / 04:43)</description>
+      <pubDate>Mon, 12 Jul 2021 03:47:07 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1987-part3.mp3" type="audio/mpeg" length="85135667" />
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>59:07</itunes:duration>
+      <itunes:subtitle>We’re going back to 1987 for part 3 of our dive into 80s Disco. Most of the songs tonight are from Italy, just one from Germany.</itunes:subtitle>
+      <itunes:summary>We’re going back to 1987 for part 3 of our dive into 80s Disco. Most of the songs tonight are from Italy, just one from Germany.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/07/12034603/1987-p3-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1987 Part 2</title>
+      <link>https://www.discoitalo.com/2021/07/04/italo-disco-songs-from-1987-part-2/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=272</guid>
+      <description>Continuing our dive into Euro and Italo Disco released in 1987. We've got some first singles and some only singles. Half are from Italy and few from Germany.
+
+Playlist:
+1. I Wanna Be Your Lover - Magic (1987 / Germany / 05:03)
+2. Touch My Heart - Danuta (1987 / Poland / 03:11)
+3. Gigolo - Green Ice (1987 / Spain / 06:52)
+4. Midnight Man - Sandra (1987 / Germany / 03:04)
+5. Are You Man Enough - C.C. Catch (1987 / Germany / 03:41)
+6. Day By Day - Den Harrow (1987 / Italy / 04:20)
+7. Keep on Driving - Robert Bravo (1987 / Italy / 05:33)
+8. Boys - Sabrina (1987 / Italy / 03:54)
+9. Pictures - Scotch (1987 / Italy / 06:00)
+10. Night Girl - Brian Ice (1987 / Italy / 07:12)
+11. Space Hopper - Proxyon (1987 / Netherlands / 03:55)</description>
+      <pubDate>Sun, 04 Jul 2021 23:15:05 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1987-part2.mp3" type="audio/mpeg" length="82847314" />
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>57:32</itunes:duration>
+      <itunes:subtitle>Continuing our dive into Euro and Italo Disco released in 1987. We've got some first singles and some only singles. Half are from Italy and few from Germany.</itunes:subtitle>
+      <itunes:summary>Continuing our dive into Euro and Italo Disco released in 1987. We've got some first singles and some only singles. Half are from Italy and few from Germany.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/07/04231325/1987p2-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1987 Part 1</title>
+      <link>https://www.discoitalo.com/2021/06/21/italo-disco-songs-from-1987-part-1/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=263</guid>
+      <description>It’s time to dive into 1987! In the US, Michael Jackson released Bad, Rick Astley released Never Gonna Give You Up. But what was going on in the dance scene in Europe?
+
+Playlist:
+1. Up &amp; Down - Eddy Huntington (1987 / Italy / 03:30)
+2. Hopes &amp; Dreams - Albert One (1987 / Italy / 04:55)
+3. Toc Toc Toc - Miko Mission (1987 / Italy / 04:39)
+4. Flash In Your Mind - Air Mail (1987 / Italy / 05:48)
+5. I Cry For You - Shy Rose (1987 / Italy / 06:53)
+6. Let’s Dance Tonight - David Gray (1987 / Italy / 04:42)
+7. Yeti - Radiorama (1987 / Italy / 04:03)
+8. 1.2.3.4.5.6.7.8 - Ken Laszlo (1987 / Italy / 03:46)
+9. Call Me - Spagna (1987 / Italy / 03:58)
+10. Ready for Love - Morgana (1987 / Italy / 07:39)
+11. Forever Lovers - Italian Boys (1987 / Italy / 06:09)
+12. Little Russian - Mr. Zivago (1987 / Italy / 07:39)</description>
+      <pubDate>Mon, 21 Jun 2021 02:27:05 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1987-part1.mp3" type="audio/mpeg" length="93330679" />
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:04:48</itunes:duration>
+      <itunes:subtitle>It’s time to dive into 1987! In the US, Michael Jackson released Bad, Rick Astley released Never Gonna Give You Up. But what was going on in the dance scene in Europe?</itunes:subtitle>
+      <itunes:summary>It’s time to dive into 1987! In the US, Michael Jackson released Bad, Rick Astley released Never Gonna Give You Up. But what was going on in the dance scene in Europe?</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/06/21022543/1987p1-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Mixes from 1986</title>
+      <link>https://www.discoitalo.com/2021/06/07/italo-disco-mixes-from-1986/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=258</guid>
+      <description>Labels released mix albums in the 80s. In 1986 there were several mixes: Italo Boot Mix by ZYX, Max Mix 4 by Max Music and Bolero Mix by Blanco Y Negro records.
+
+Playlist:
+1. Italo Boot Mix Vol 7 Side A - ZYX Records (1986 / Germany / 13:29)
+2. Max Mix 4 Side A - Max Music (1986 / Spain / 19:17)
+3. Bolero Mix Side A - Blanco Y Negro Records (1986 / Spain / 14:06)
+4. Italo Boot Mix Vol 7 Side B - ZYX Records (1986 / Germany / 13:16)</description>
+      <pubDate>Mon, 07 Jun 2021 05:08:30 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1986-mixes.mp3" type="audio/mpeg" length="91581713" />
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:03:36</itunes:duration>
+      <itunes:subtitle>Labels released mix albums in the 80s. In 1986 there were several mixes: Italo Boot Mix by ZYX, Max Mix 4 by Max Music and Bolero Mix by Blanco Y Negro records.</itunes:subtitle>
+      <itunes:summary>Labels released mix albums in the 80s. In 1986 there were several mixes: Italo Boot Mix by ZYX, Max Mix 4 by Max Music and Bolero Mix by Blanco Y Negro records.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/06/07050650/1986mixes-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1986 Part 3</title>
+      <link>https://www.discoitalo.com/2021/05/31/italo-disco-songs-from-1986-part-3/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=252</guid>
+      <description>We've got more Italo and Euro disco songs from 1986, including a lost ballad from my past.
+
+Playlist:
+1. Agent of liberty - Mike Mareen (1986 / Germany / 04:18)
+2. Give Me Up - Michael Fortunati (1986 / France / 03:45)
+3. More Than a Kiss - Michael Bedford (1986 / Ireland / 03:47)
+4. Easy Lady - Spagna (1986 / Italy / 04:50)
+5. Macho Man - Andrea (1986 / Italy / 05:22)
+6. Why Why - Rare Band (1986 / Italy / 06:53)
+7. Shine Shine Shine - Mania (1986 / Italy / 05:52)
+8. Can Delight - My Mine (1986 / Italy / 05:56)
+9. Sexy Teacher - Ceck Up Twins (1986 / Italy / 07:12)
+10. Looking For Love - Tom Hooker (1986 / Italy / 03:46)
+11. Flash in the Night - Public Passion (1986 / Italy / 06:28)
+12. Strip Tease - Miko Mission (1986 / Italy / 04:52)
+13. Cause You Are Young - C.C. Catch (1986 / Germany / 04:49)
+14. Venture In My Heart - Marco Martina (1986 / Italy / 05:46)
+15. Zighidizazazero - Databook (1986 / Italy / 07:14)
+16. To Be Or Not To Be - Jock Hattle (1986 / Italy / 04:23)
+17. Love At First - Joe Yellow (1986 / Italy / 06:01)
+18. Don’t Talk About It - Swan (1986 / Italy / 03:57)
+19. Monkey Monkey - Flo Astaire (1986 / Italy / 03:53)
+20. Never Say Goodbye - Chip Chip (1986 / Italy / 04:33)
+21. Johnny Johnny - Lala (1986 / Italy / 04:56)
+22. Juke Box Boy - Baltimora (1986 / Italy / 05:51)
+23. Ocean Deep - Taco (1986 / Germany / 04:41)
+24. Smile - The Why Not (1986 / Italy / 04:46)</description>
+      <pubDate>Mon, 31 May 2021 05:22:57 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1986-part3.mp3" type="audio/mpeg" length="181186101" />
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:05:49</itunes:duration>
+      <itunes:subtitle>We've got more Italo and Euro disco songs from 1986, including a lost ballad from my past.</itunes:subtitle>
+      <itunes:summary>We've got more Italo and Euro disco songs from 1986, including a lost ballad from my past.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/05/31052134/1986p3-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1986 Part 2</title>
+      <link>https://www.discoitalo.com/2021/05/24/italo-disco-songs-from-1986-part-2/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=244</guid>
+      <description>We're continuing our dive into Italo and Euro Disco songs from 1986. We've got a few songs written and produced by Giuliano Crivellente and Mauro Farina.
+
+Playlist:
+1. Secrets - Albert One (1986 / Italy / 03:41)
+2. Love Spy - Mike Mareen (1986 / Germany / 06:26)
+3. Vampires - Radiorama (1986 / Italy / 06:14)
+4. Computer (In My Mind) - Ago (1986 / Italy / 06:10)
+5. Play the Game - Rudy &amp; Co. (1986 / Italy / 05:43)
+6. Do You Really Need Me - K B Caps (1986 / Italy / 03:46)
+7. Lancelot - Valerie Dore (1986 / Italy / 04:32)
+8. Don’t Cry - Ken Laszlo (1986 / Italy / 04:11)
+9. I’m Your Lover - Joe Yellow (1986 / Italy / 03:50)
+10. Living In A Rom - G.G. Near (1986 / Italy / 06:25)
+11. Moonlight Affair - Cliff Turner (1986 / Italy / 06:16)
+12. Flash - Stephanie De Monaco (1986 / Monaco / 05:46)
+13. You’re My First You’re My Last - Linda Jo Rizzo (1986 / Germany / 05:42)
+14. The Last Wall - Alan Ross (1986 / Italy / 05:14)
+15. Lady of Ice - Fancy (1986 / Germany / 04:54)
+16. Killer Maschine - Laser Cowboys (1986 / Germany / 06:34)
+17. My Dream - Shamall (1986 / Germany / 06:42)
+18. Everybody Is Gay - Latin Rose (1986 / Spain / 03:35)
+19. Charleston - Den Harrow (1986 / Italy / 04:49)
+20. Swiss Boy - Lou Sern (1986 / Italy / 05:04)
+21. Nothing - Body Power (1986 / Italy / 06:19)
+22. Humanoid Invasion - Laserdance (1986 / Netherlands / 07:12)</description>
+      <pubDate>Mon, 24 May 2021 05:26:23 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1986-part2.mp3" type="audio/mpeg" length="170726267" />
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:58:33</itunes:duration>
+      <itunes:subtitle>We're continuing our dive into Italo and Euro Disco songs from 1986. We've got a few songs written and produced by Giuliano Crivellente and Mauro Farina.</itunes:subtitle>
+      <itunes:summary>We're continuing our dive into Italo and Euro Disco songs from 1986. We've got a few songs written and produced by Giuliano Crivellente and Mauro Farina.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/05/24052446/1986p2-podcast-copy.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1986 Part 1</title>
+      <link>https://www.discoitalo.com/2021/05/18/italo-disco-songs-from-1986-part-1/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=238</guid>
+      <description>It's first episode on Italo disco of 1986. In the 2nd half of the 80s it starts to evolve into Hi-NRG and house music. 1986 has a ton of classic Italo hits.
+
+Playlist:
+1. Don’t Wake Me Up - J.D. Jaber (1986 / Italy / 07:55)
+2. Comet - DIUX (1986 / Italy / 06:04)
+3. Colours - Tabù D’Apache (1986 / Italy / 06:48)
+4. Toledo Girl - Cosa Rosa (1986 / Italy / 07:09)
+5. Hello - Joy (1986 / Austria / 04:27)
+6. Catch the Fox - Den Harrow (1986 / Italy / 06:08)
+7. Aliens - Radiorama (1986 / Italy / 04:14)
+8. Ussr - Eddy Huntington (1986 / Italy / 03:53)
+9. Jabdah - Koto (1986 / Italy / 07:35)
+10. For your love - Albert One (1986 / Italy / 06:29)
+11. Computer Guy - Palmer (1986 / Italy / 07:06)
+12. I Was Made For Lovin’ You - The Nasty Boys (1986 / Italy / 07:42)
+13. Baila Bolero - Fun Fun (1986 / Italy / 03:57)
+14. Medley - P4f (1986 / Italy / 04:52)
+15. When I Let You Down - M&amp;G (1986 / Italy / 06:06)
+16. Sexy Girl - Sabrina (1986 / Italy / 03:42)
+17. Sexy Lady - Edy Band (1986 / Italy / 06:00)
+18. White Storm in the Jungle - Sandy Marton (1986 / Italy / 03:48)
+19. Boom Boom - Paul Lekakis (1986 / Italy / 06:56)
+20. Dr. Faustus - Cyber People (1986 / Italy / 07:02)</description>
+      <pubDate>Tue, 18 May 2021 02:55:55 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1986-part1.mp3" type="audio/mpeg" length="172879571" />
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:03</itunes:duration>
+      <itunes:subtitle>It's first episode on Italo disco of 1986. In the 2nd half of the 80s it starts to evolve into Hi-NRG and house music. 1986 has a ton of classic Italo hits.</itunes:subtitle>
+      <itunes:summary>It's first episode on Italo disco of 1986. In the 2nd half of the 80s it starts to evolve into Hi-NRG and house music. 1986 has a ton of classic Italo hits.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/05/18025430/1986p1-podcast-copy.png" />
+    </item>
+    <item>
+      <title>Italo Rain Boot Mix Vol 1</title>
+      <link>https://www.discoitalo.com/2021/05/09/italo-rain-boot-mix-vol-1/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=233</guid>
+      <description>Once a month we'll put out a 1 hour mix of Italo and Euro Disco songs. We don't go into the background or history of the songs, just a bit of a sample.
+
+Playlist:
+1. I Am A Robot - David Zed (1980 / Italy)
+2. Baby Not Tonight - Kano (1981 / Italy)
+3. Masterpiece - Gazebo (1982 / Italy)
+4. Bambina - David Lyme (1985 / Spain)
+5. Dirty Talk - Klein &amp; M.B.O. (1982 / Italy)
+6. Feel The Fear - Clio (1985 / Italy)
+7. Dancing in the Dark - Mike Mareen (1985 / Germany)
+8. I Wish - Bolero (1984 / Italy)
+9. My Mind - Korja (1981 / Italy)
+10. Color My Love - Fun Fun (1984 / Italy)
+11. We Just - Moses (1985 / Italy)
+12. Turbo Diesel - Albert One (1984 / Italy)
+13. Void Vision - Cyber People (1985 / Italy)
+14. Happy Song - Boney M. (1984 / Germany/Caribbean)
+15. Real Men - Tom Hooker (1985 / Italy)
+16. Spacer Woman - Charlie (1983 / Italy)
+17. Future Brain - Den Harrow (1985 / Italy)
+18. Hypnotic Tango - My Mine (1983 / Italy)
+19. Alisand - Hugh Bullen (1985 / Italy)
+20. I’m Hungry - Stopp (1983 / Italy)
+21. Disco Future - Fresh Color (1985 / Switzerland)
+22. Cha Cha Cha - Finzy Kontini (1985 / Italy)
+23. Silver Spoon - Danielle Devred (1981 / Belgium)
+24. Sky Walking - Dee D. Jackson (1984 / UK)
+25. Queen of the Night - Camomilla (1985 / Italy)
+26. Don’t Stop Lovin’ - J.D. Jaber (1983 / Italy)
+27. Touch by touch - Joy (1985 / Austria)
+28. Faces - Clio (1985 / Italy)
+29. Dolce Vita - Ryan Paris (1983 / Italy)</description>
+      <pubDate>Sun, 09 May 2021 18:52:13 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-RainBootMix-Vol01.mp3" type="audio/mpeg" length="86979394" />
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:00:24</itunes:duration>
+      <itunes:subtitle>Once a month we'll put out a 1 hour mix of Italo and Euro Disco songs. We don't go into the background or history of the songs, just a bit of a sample.</itunes:subtitle>
+      <itunes:summary>Once a month we'll put out a 1 hour mix of Italo and Euro Disco songs. We don't go into the background or history of the songs, just a bit of a sample.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/05/09183918/ItaloRainBootMixWeb.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1985 Part 4</title>
+      <link>https://www.discoitalo.com/2021/05/02/italo-disco-songs-from-1985-part-4/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=228</guid>
+      <description>It's our 4th show digging into Italo and Euro Disco released in 1985. We've got two songs called 'America'. and also got songs about American Football.
+
+Playlist:
+1. Overpower - Den Harrow (1985 / Italy / 04:16)
+2. Forever and a Day - 93rd Superbowl (1985 / Italy / 05:46)
+3. Hot Girls – Bad Boys - Bad Boys Blue (1985 / Germany / 04:10)
+4. Suzie’s Pants - Joan Katton (1985 / Italy / 06:13)
+5. Computer Sourire - Alexander Robotnick (1985 / Italy / 04:19)
+6. Topless On The Beach - The Matchmakers (1985 / Spain / 06:34)
+7. How to Pick Up Girls - Bobby O (1985 / USA / 04:03)
+8. Real Men - Tom Hooker (1985 / Italy / 03:28)
+9. Oe’-Ooh - Superbowl (1985 / Italy / 06:04)
+10. Super Bowl Shuffle - Chicago Bears Shufflin’ Crew (1985 / USA / –)
+11. New England, the Patriots and We - The New England Patriots (1985 / USA / –)
+12. Locker Room Rock - 1985 Seahawks (1985 / USA / –)
+13. We’re The 49ers! - The 49ers (1984 / USA / 04:15)
+14. Dial My Number - R.Bais (1985 / Italy / 03:46)
+15. Flowers in the Rain - Thaï Break (1985 / Belgium / 06:23)
+16. Listen Over The Ocean - Violet Eves (1985 / Italy / 04:20)
+17. Tonight - Tony Moore D.J. (1985 / Italy / 06:56)
+18. Computerized Love - Tango (1985 / Italy / 05:13)
+19. A. I. D. S. - Risen From The Rank (1985 / Italy / 06:45)
+20. The Girl of Lucifer - Monte Kristo (1985 / France / 03:54)
+21. Sleep Walk Sleep Talk - Naimy Hackett (1985 / Italy / 03:50)
+22. This Is The Night - Kano (1985 / Italy / 05:48)
+23. America - Baby’s Gang (1985 / Italy / 06:39)
+24. America - Crusin Gang (1985 / Italy / 07:27)
+25. Theme From Dallas - Paul Mc Douglas (1985 / Germany / 05:09)</description>
+      <pubDate>Sun, 02 May 2021 16:57:53 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1985-part4.mp3" type="audio/mpeg" length="174036637" />
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:51</itunes:duration>
+      <itunes:subtitle>It's our 4th show digging into Italo and Euro Disco released in 1985. We've got two songs called 'America'. and also got songs about American Football.</itunes:subtitle>
+      <itunes:summary>It's our 4th show digging into Italo and Euro Disco released in 1985. We've got two songs called 'America'. and also got songs about American Football.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/05/02165430/1985p4-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1985 Part 3</title>
+      <link>https://www.discoitalo.com/2021/04/25/italo-disco-songs-from-1985-part-3/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=222</guid>
+      <description>It's Part 3 of 4 of our dive into Italo Disco songs from 1985. Tonight it’s mostly songs from Italy. Just a couple from Germany.
+
+Playlist:
+1. Broken Radio - Den Harrow (1985 / Italy / 04:40)
+2. Hold Me Tight - Katy Gray (1985 / Italy / 05:59)
+3. Feel The Fear - Clio (1985 / Italy / 03:42)
+4. Ah, Ah, Ah, Ah! - Roaring Mosquitoes (1985 / Italy / 02:59)
+5. Eyes of Glass - East Wall (1985 / Italy / 06:57)
+6. Cinderella - Martinelli (1985 / Italy / 03:58)
+7. Two For Love - Miko Mission (1985 / Italy / 05:23)
+8. I Can Feel It - Rex Abe (1985 / Italy / 04:46)
+9. Destiny Time - Roy (1985 / Italy / 07:27)
+10. Music In The Night - Solid Strangers (1985 / Germany / 05:18)
+11. Desire - Radiorama (1985 / Italy / 03:39)
+12. Sunlight - M Like Moon (1985 / Italy / 05:35)
+13. I’m a Lover - Andrea (1985 / Italy / 06:08)
+14. Cha Cha Cha - Finzy Kontini (1985 / Italy / 05:53)
+15. Queen of the Night - Camomilla (1985 / Italy / 05:26)
+16. All The Night - Riky Maltese (1985 / Italy / 06:07)
+17. Take Me Up - Scotch (1985 / Italy / 03:32)
+18. Bolero (Hold Me In Your Arms Again) - Fancy (1985 / Germany / 04:05)
+19. Fairy Tale - Rose (1985 / Italy / 05:48)
+20. Zanzibar - Helen (1985 / Italy / 06:04)
+21. Eagles In The Night - Dario Dell’Aere (1985 / Italy / 08:21)</description>
+      <pubDate>Sun, 25 Apr 2021 18:57:19 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1985-part3.mp3" type="audio/mpeg" length="163780171" />
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:53:44</itunes:duration>
+      <itunes:subtitle>It's Part 3 of 4 of our dive into Italo Disco songs from 1985. Tonight it’s mostly songs from Italy. Just a couple from Germany.</itunes:subtitle>
+      <itunes:summary>It's Part 3 of 4 of our dive into Italo Disco songs from 1985. Tonight it’s mostly songs from Italy. Just a couple from Germany.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/04/25185537/1985p3-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1985 Part 2</title>
+      <link>https://www.discoitalo.com/2021/04/18/italo-disco-songs-from-1985-part-2/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=213</guid>
+      <description>Part 2: We explore Italo/Euro disco songs of 1985. We’ve got some songs from Italy, Germany, Spain, Austria, the Netherlands, Belgium, USA and USSR.
+
+Playlist:
+1. Future Brain - Den Harrow (Italy / 05:28)
+2. Alisand - Hugh Bullen (Italy / 05:34)
+3. Domination - Flexi Cowboys (Italy / 05:38)
+4. Only Music Survives - Alba (Italy / 07:25)
+5. Fantasy - Lian Ross (Germany / 06:57)
+6. Touch by touch - Joy (Austria / 05:20)
+7. You’re a Woman - Bad Boys Blue (Germany / 05:22)
+8. Mama Radio - Rudy &amp; Co. (Italy / 05:50)
+9. L.A.D.Y. O. - Fancy (Germany / 05:36)
+10. Lady O - Albert One (Italy / 04:47)
+11. Bambina - David Lyme (Spain / 05:31)
+12. (I’ll Never Be) Maria Magdalena - Sandra (Italy / 03:58)
+13. Beautiful Life - Alex Valentini (Italy / 04:21)
+14. It’s So Easy - Valerie Dore (Italy / 06:29)
+15. Around My Dream - Kazino (Belgium / 04:02)
+16. A Man Like Me - Bobby Orlando (USA / 03:18)
+17. Let’s Call Each Other - Forum (USSR / 03:13)
+18. Time (Back In Time) - Digital Emotion (Netherlands / 06:38)
+19. Magic Dance - LOUI$ (Italy / 08:31)
+20. Delirio Mind - Scotch (Italy / 05:11)
+21. Void Vision - Cyber People (Italy / 07:14)</description>
+      <pubDate>Sun, 18 Apr 2021 19:00:59 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1985-part2.mp3" type="audio/mpeg" length="174178521" />
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:57</itunes:duration>
+      <itunes:subtitle>Part 2: We explore Italo/Euro disco songs of 1985. We’ve got some songs from Italy, Germany, Spain, Austria, the Netherlands, Belgium, USA and USSR.</itunes:subtitle>
+      <itunes:summary>Part 2: We explore Italo/Euro disco songs of 1985. We’ve got some songs from Italy, Germany, Spain, Austria, the Netherlands, Belgium, USA and USSR.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/04/18185915/1985p2-podcast-copy.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1985 Part 1</title>
+      <link>https://www.discoitalo.com/2021/04/12/italo-disco-songs-from-1985-part-1/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=203</guid>
+      <description>Kicking off 1985, another year with hundreds of Italo and Euro disco releases. # Title Artist Time Release Date Country 1 Bad Boy Den Harrow 04:09 1985 Italy 2 Around My Dream Silver Pozzoli 03:35 1985 Italy 3 Lady Fantasy Max Him 06:40 1985 Italy 4 We Just Moses 06:32 1985 Italy 5 Walking in […]
+
+Playlist:
+1. Bad Boy - Den Harrow (Italy / 04:09)
+2. Around My Dream - Silver Pozzoli (Italy / 03:35)
+3. Lady Fantasy - Max Him (Italy / 06:40)
+4. We Just - Moses (Italy / 06:32)
+5. Walking in the Neon - Peter Richard (Italy / 06:49)
+6. Song for Denise - Piano Fantasia (France? / 03:12)
+7. Marinero - Lucia (Italy / 07:09)
+8. Talking To The Night - Brian Ice (Italy / 06:54)
+9. Woody Boogie - Baltimora (Italy / 05:55)
+10. Mi Amor - Plastic Mode (Italy / 04:27)
+11. Dancing In The Dark - Mike Mareen (Germany / 07:10)
+12. Heart On Fire - Albert One (Italy / 05:32)
+13. The Years - Fred Ventura (Italy / 06:16)
+14. Tonight - Ken Laszlo (Italy / 03:49)
+15. I Love My Radio - Taffy (UK / Italy / 04:05)
+16. Give Me Your Love - Fun Fun (Italy / 03:55)
+17. Faces - Clio (Italy / 05:41)
+18. Please Don’t Go - Digital Game (Italy / 04:34)
+19. Disco Future - Fresh Color (Switzerland / 03:46)
+20. Living In The Shuttle - Torrevado (Italy / 05:09)
+21. Chance To Desire - Radiorama (Italy / 04:09)
+22. Visitors - Koto (Italy / 06:25)</description>
+      <pubDate>Mon, 12 Apr 2021 04:41:16 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1985-part1.mp3" type="audio/mpeg" length="172298045" />
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:59:39</itunes:duration>
+      <itunes:subtitle>Kicking off 1985, another year with hundreds of Italo and Euro disco releases. # Title Artist Time Release Date Country 1 Bad Boy Den Harrow 04:09 1985 Italy 2 Around My Dream Silver Pozzoli 03:35 1985 Italy 3 Lady Fantasy Max Him 06:40 1985 Italy 4 We...</itunes:subtitle>
+      <itunes:summary>Kicking off 1985, another year with hundreds of Italo and Euro disco releases. # Title Artist Time Release Date Country 1 Bad Boy Den Harrow 04:09 1985 Italy 2 Around My Dream Silver Pozzoli 03:35 1985 Italy 3 Lady Fantasy Max Him 06:40 1985 Italy 4 We Just Moses 06:32 1985 Italy 5 Walking in […]</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/04/12043833/1985-1-podcast.png" />
+    </item>
+    <item>
+      <title>Euro Disco Songs from 1984 Part 3</title>
+      <link>https://www.discoitalo.com/2021/04/04/euro-disco-songs-from-1984-part-3/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=194</guid>
+      <description>We're playing hits from the Netherlands, Greece, Belgium, the UK, the US, and a few more from Italy, but every song in today's show is from 1984.
+
+Playlist:
+1. Welcome - Jules Tropicana (Spain / 07:18)
+2. Kairo - Üdytü Ützeltürk And His Male Harem (Germany / 05:16)
+3. The Game Of Chance - THE TWINS (Germany / 06:57)
+4. Slice Me Nice - Fancy (Germany / 05:26)
+5. Telephone Mama - Gazebo (Italy / 05:41)
+6. precious little diamond - Fox The Fox (Netherlands / 05:09)
+7. You’re My Heart, You’re My Soul - Modern Talking (Germany / 05:34)
+8. Happy Song - Boney M. (Germany/Caribbean / 03:59)
+9. Lost In The Night - Costas Charitodiplomenos (Greece / 05:33)
+10. Walkin - Dhuo (Italy / 04:47)
+11. The Riddle - Nik Kershaw (UK / 03:53)
+12. I Only Move For Money - Xalan (Spain / 06:18)
+13. You Could Be More as You Are - Saâda Bonaire (Germany / 05:56)
+14. Woodpeckers From Space - Video Kids (Netherlands / 03:35)
+15. fotonovaela - Ivan (Spain / 03:13)
+16. Egypt Egypt - The Egyptian Lover (USA / 05:20)
+17. You’ve Got To Move It On - Rofo (Belgium / 06:55)
+18. You Ain’t Got a Chance - Charlie Danone (Spain / 07:19)
+19. L.o.v.e. in My Car - Bad Boys Blue (Germany / 04:03)
+20. Kalimba de luna - Tony Esposito (Italy / 07:35)
+21. Never Ending Story - Limahl (UK / 03:30)</description>
+      <pubDate>Sun, 04 Apr 2021 20:34:51 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1984-part3.mp3" type="audio/mpeg" length="173213937" />
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:17</itunes:duration>
+      <itunes:subtitle>We're playing hits from the Netherlands, Greece, Belgium, the UK, the US, and a few more from Italy, but every song in today's show is from 1984.</itunes:subtitle>
+      <itunes:summary>We're playing hits from the Netherlands, Greece, Belgium, the UK, the US, and a few more from Italy, but every song in today's show is from 1984.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/04/04203204/1984-part3-podcasat.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1984 Part 2</title>
+      <link>https://www.discoitalo.com/2021/03/28/italo-disco-songs-from-1984-part-2/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=189</guid>
+      <description>1984 was probably the year with the most new Italo Disco releases any year. This week's focus is on some of the other "hits" we didn't get to play in Part 1.
+
+Playlist:
+1. Music Colours - Cellophane (Italy / 06:49)
+2. Silent Smiles - Ram Band (Italy / 03:44)
+3. Cause I need you, ’cause I love you’ - De-De-Mo (Italy / 05:35)
+4. Firelight - Ghecko (Italy / 04:13)
+5. Magic Carillon - Rose (Italy / 06:03)
+6. Driving - Sensitive (Italy / 07:09)
+7. Get Closer - Valerie Dore (Italy / 06:02)
+8. Zorro - My Mine (Italy / 03:51)
+9. Basic - MC1 (Italy / 04:37)
+10. Body Heat - Fokewulf 190 (Italy / 06:32)
+11. The World Is You - Miko Mission (Italy / 05:35)
+12. Love Attack - Tom Hooker (Italy / 05:24)
+13. Heaven Is… - Patricia Harris (Italy / 07:09)
+14. Queen Of Discoteque - Sissy (Italy / 03:44)
+15. Right By The Moon - K. Barré (Italy / 06:42)
+16. I Am Sure - The Radiators (Italy / 06:01)
+17. Don’t Runaway - Myxoma (Italy / 05:50)
+18. Sexy Films - Kroma (Italy / 06:56)
+19. I Wish - Bolero (Italy / 03:18)
+20. I’m gonna dance (take me tonight) - Ryvon D.J. (Italy / 06:01)
+21. Occhi su di me - Robert Sandrini (Italy / 04:19)
+22. Happy Birthday (To My Mammy) - Baby’s Gang (Italy / 04:58)</description>
+      <pubDate>Sun, 28 Mar 2021 19:42:04 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1984-part2.mp3" type="audio/mpeg" length="177061605" />
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:02:57</itunes:duration>
+      <itunes:subtitle>1984 was probably the year with the most new Italo Disco releases any year. This week's focus is on some of the other "hits" we didn't get to play in Part 1.</itunes:subtitle>
+      <itunes:summary>1984 was probably the year with the most new Italo Disco releases any year. This week's focus is on some of the other "hits" we didn't get to play in Part 1.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/03/28193826/1984-2-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1984 Part 1</title>
+      <link>https://www.discoitalo.com/2021/03/21/italo-disco-songs-from-1984-part-1/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=181</guid>
+      <description>1984 is possibly the year with the most Italo Disco releases of any year. We also started to see some songs that had great success, even outside of Europe.
+
+Playlist:
+1. Sky Walking - Dee D. Jackson (UK / 04:27)
+2. Tarzan Boy - Baltimora (Italy / 06:19)
+3. Shine On Dance - Carrara (Italy / 03:52)
+4. Polaris - Cyber People (Italy / 05:40)
+5. People From Ibiza - Sandy Marton (Croatia / Italy / 03:09)
+6. Hey Hey Guy - Ken Laszlo (Italy / 05:48)
+7. Sandy Eyes - Zwischenfall (Germany / 05:47)
+8. Self Control - RAF (Italy / 04:01)
+9. Distant Planet - The Voyagers (Italy / 06:22)
+10. Eyes - Clio (Italy / 06:39)
+11. Dancing Therapy - International Music System (Italy / 06:05)
+12. Under the Ice - Topo &amp; Roby (Italy / 07:13)
+13. Turbo Diesel - Albert One (Italy / 03:43)
+14. Comanchero - Moon Ray (Italy / 03:58)
+15. Mad Desire - Den Harrow (Italy / 04:38)
+16. The Night - Valerie Dore (Italy / 05:47)
+17. Disco band - Scotch (Italy / 05:01)
+18. How Old Are You - Miko Mission (Italy / 05:06)
+19. Color My Love - Fun Fun (Italy / 04:07)
+20. No Escape - Max Him (Italy / 06:12)
+21. On Fire - G. Race (Italy / 05:19)
+22. Challenger - Baby’s Gang (Italy / 05:18)</description>
+      <pubDate>Sun, 21 Mar 2021 17:11:00 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1984-part1.mp3" type="audio/mpeg" length="174865733" />
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:01:26</itunes:duration>
+      <itunes:subtitle>1984 is possibly the year with the most Italo Disco releases of any year. We also started to see some songs that had great success, even outside of Europe.</itunes:subtitle>
+      <itunes:summary>1984 is possibly the year with the most Italo Disco releases of any year. We also started to see some songs that had great success, even outside of Europe.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/03/21170156/1985p1-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1983 Part 2</title>
+      <link>https://www.discoitalo.com/2021/03/14/italo-disco-songs-from-1983-part-2/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=171</guid>
+      <description>We continue exploring Italo Disco releases in 1983. All songs are from Italy. We'll be listening to some first releases by Elena Ferreti, Koto, and Hipnosis.
+
+Playlist:
+1. I’m Hungry - Stopp (Italy / 06:03)
+2. Spacer Woman - Charlie (Italy / 07:30)
+3. Witch - Helen (Italy / 07:00)
+4. Japanese War Game - Koto (Italy / 03:57)
+5. The Rule to Survive - N.O.I.A. (Italy / 04:41)
+6. Rainy Day - Brando (Italy / 04:02)
+7. Believe in Yourself - The Creatures (Italy / 04:08)
+8. Problèmes d’Amour - Alexander Robotnick (Italy / 07:00)
+9. Heroes - Big Ben Tribe (Italy / 06:54)
+10. Woman - Mirage (Italy / 05:07)
+11. Somebody (Hey Girl) - Video (Italy / 06:17)
+12. I’m Going to Go - Jago (Italy / 05:16)
+13. You… See - Helicon (Italy / 06:36)
+14. Good Times - Paul Paul (Italy / 05:56)
+15. Chinese Revenge - Koto (Italy / 06:20)
+16. Galaxi - Xenon (Italy / 06:47)
+17. Higher - Vivien Vee (Italy / 03:54)
+18. Voices In The Dark - Mike Cannon (Italy / 03:07)
+19. Ba Ba Go, Go - Topo (Italy / 04:41)
+20. Pulstar - Hipnosis (Italy / 05:53)
+21. Turbo Time - Daniele Patucchi (Italy / 04:04)</description>
+      <pubDate>Sun, 14 Mar 2021 22:17:40 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1983-part2.mp3" type="audio/mpeg" length="170967489" />
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:58:43</itunes:duration>
+      <itunes:subtitle>We continue exploring Italo Disco releases in 1983. All songs are from Italy. We'll be listening to some first releases by Elena Ferreti, Koto, and Hipnosis.</itunes:subtitle>
+      <itunes:summary>We continue exploring Italo Disco releases in 1983. All songs are from Italy. We'll be listening to some first releases by Elena Ferreti, Koto, and Hipnosis.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/03/14221629/1983-part2-podcast.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs from 1983 Part 1</title>
+      <link>https://www.discoitalo.com/2021/03/07/italo-disco-songs-from-1983-part-1/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=165</guid>
+      <description>This week is about Italo Disco releases in 1983. 1983 included debut singles from Savage, My Mine, Ryan Paris, Fun Fun, and Righeria.
+
+Playlist:
+1. Italo Boot Mix Vol 1 Side A - ZYX Records (Germany / 10:39)
+2. I Like Chopin - Gazebo (Italy / 04:52)
+3. No Tengo Dinero - Righeira (Italy / 03:21)
+4. Dolce Vita - Ryan Paris (Italy / 03:55)
+5. To Meet Me - Den Harrow (Italy / 06:09)
+6. Sexiness - Travel Sex (Italy / 07:10)
+7. Happy Station - Fun Fun (Italy / 05:55)
+8. Hypnotic Tango - My Mine (Italy / 03:45)
+9. Happy Song - Baby’s Gang (Italy / 05:36)
+10. Another Life - Kano (Italy / 03:52)
+11. Cybernetic Love - Casco (Italy / 06:09)
+12. I Want You - Gary Low (Spain / 08:33)
+13. Lover To Lover (For Sale) - Joe Yellow (Italy / 04:20)
+14. Plastic Love - Zed (Italy / 05:01)
+15. Vamos A La Playa - Righeira (Italy / 03:40)
+16. Don`t Cry Tonight - Savage (Italy / 06:49)
+17. Happy Children - P.Lion (Italy / 05:56)
+18. Come On Closer - The Pineapples (Italy / 06:28)
+19. Don’t Stop Lovin’ - J.D. Jaber (Italy / 07:11)
+20. Penguin Invasion - Scotch (Italy / 06:15)</description>
+      <pubDate>Sun, 07 Mar 2021 23:27:14 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1983-Part1.mp3" type="audio/mpeg" length="174492773" />
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:01:10</itunes:duration>
+      <itunes:subtitle>This week is about Italo Disco releases in 1983. 1983 included debut singles from Savage, My Mine, Ryan Paris, Fun Fun, and Righeria.</itunes:subtitle>
+      <itunes:summary>This week is about Italo Disco releases in 1983. 1983 included debut singles from Savage, My Mine, Ryan Paris, Fun Fun, and Righeria.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/03/07231810/ObscuroDisco1983-200x300.png" />
+    </item>
+    <item>
+      <title>Italo Disco songs from 1982</title>
+      <link>https://www.discoitalo.com/2021/02/28/italo-disco-songs-from-1982/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=161</guid>
+      <description>In today's episode, we're going year-by-year through 1980s Italo Disco. Today's episode is 1982! Every song in this episode is from Italy, 1982.
+
+Playlist:
+1. You Are a Danger - Gary Low (Italy / 08:40)
+2. Masterpiece - Gazebo (Italy / 04:05)
+3. Dirty Talk - Klein &amp; M.B.O. (Italy / 05:36)
+4. Tequila - Bo Boss (Italy / 04:50)
+5. Take Me to the Top - Advance (Italy / 06:17)
+6. Space Operator - 4 M International (Italy / 04:25)
+7. Disco Project - Pink Project (Italy / 05:05)
+8. Bad Passion - Steel Mind (Italy / 06:34)
+9. Stop - Valery Allington (Italy / 04:34)
+10. Life With You - Expansives (Italy / 06:53)
+11. I Need Love - Capricorn (Italy / 04:33)
+12. Not Love - Trilogy (Italy / 07:35)
+13. For You - Ago (Italy / 05:54)
+14. I’m a Vocoder - Gay Cat Park (Italy / 07:27)
+15. The Man From Colours - Wanexa (Italy / 06:43)
+16. Plastic Doll - Dharma (Italy / 06:29)
+17. Catch - Sun-la-shan (Italy / 06:58)
+18. Robot Is Systematic - Lectric Workers (Italy / 07:42)
+19. Feels Good - Electra ft. Tara Butler (Italy / 06:15)
+20. Lemonsweet - Bagarre (Italy / 07:05)
+21. Girls on Me - Amin Peck (Italy / 09:59)
+22. Hookey - Sylvi Foster (Italy / 06:31)</description>
+      <pubDate>Sun, 28 Feb 2021 23:57:03 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1982.mp3" type="audio/mpeg" length="174183691" />
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:57</itunes:duration>
+      <itunes:subtitle>In today's episode, we're going year-by-year through 1980s Italo Disco. Today's episode is 1982! Every song in this episode is from Italy, 1982.</itunes:subtitle>
+      <itunes:summary>In today's episode, we're going year-by-year through 1980s Italo Disco. Today's episode is 1982! Every song in this episode is from Italy, 1982.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/02/28235557/1982-300x296.png" />
+    </item>
+    <item>
+      <title>Italo Disco Songs of 1981</title>
+      <link>https://www.discoitalo.com/2021/02/21/italo-disco-songs-from-1981/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=151</guid>
+      <description>We're digging through Italo Disco year-by-year in the 1980s. In this episode we dive into 1981.
+
+Playlist:
+1. Wake Up - The Clocks (Italy / 04:16)
+2. Fotofinish - Gin &amp; Tonic (Italy / 03:22)
+3. Baby Not Tonight (Short Version) - Kano (Italy / 03:52)
+4. Strange Desires (Vocal) - Peter Richard (Italy / 05:21)
+5. Gioca jouer (USA Version) - Claudio Cecchetto (Italy / 03:48)
+6. Just Your Love - J.M.T. Band (Belgium / 07:25)
+7. Love Is Gonna Be on Your Side (Single Version) - Firefly (Italy / 04:15)
+8. The Night They Invented The Disco - D.D. Sound (Italy / 06:07)
+9. My Mind (Vocal) - Korja (Italy / 04:31)
+10. Love is magic - Sunflower (Italy / 06:20)
+11. Give Me - Range (Italy / 07:12)
+12. Wake Up In The Night - D.D. Sound (Italy / 04:40)
+13. Can’t Hold Back (Your Loving) - Kano (Italy / 04:45)
+14. Wallet Woman - Tileface (Italy / 06:40)
+15. Walkman - Kasso (Italy / 05:24)
+16. You Make Me Do It - Ago (Italy / 05:45)
+17. Pow Pow Pow - Capricorn (Italy / 05:43)
+18. J’ai jamais dit ça! - Mino (Belgium / 03:19)
+19. Silver Spoon - Danielle Devred (Belgium / 06:50)
+20. Venus - Russell Russell (Italy / 05:09)
+21. Midnight - Passengers (Italy / 05:00)
+22. Love Stars - Caelestium (Italy / 06:03)</description>
+      <pubDate>Sun, 21 Feb 2021 03:04:49 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1981.mp3" type="audio/mpeg" length="172028519" />
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:59:27</itunes:duration>
+      <itunes:subtitle>We're digging through Italo Disco year-by-year in the 1980s. In this episode we dive into 1981.</itunes:subtitle>
+      <itunes:summary>We're digging through Italo Disco year-by-year in the 1980s. In this episode we dive into 1981.</itunes:summary>
+      <itunes:author>Dez Disco</itunes:author>
+    </item>
+    <item>
+      <title>Italo Disco Songs of 1980</title>
+      <link>https://www.discoitalo.com/2021/02/14/italo-disco-songs-of-1980/</link>
+      <guid isPermaLink="false">https://www.discoitalo.com/?p=141</guid>
+      <description>We're digging through Italo Disco year-by-year in the 1980s. We're starting with the year 1980. In 1979, Disco faced significant backlash in the United States. In 1980, some Disco acts continued to be released. It would be a few years before Italo Disco really hit its stride in Europe. However, 1980 saw music released by some key players and influencers including Giorgio Moroder, Kano, Easy Going and Claudio Simonetti, and the La Bionda brothers.
+
+Playlist:
+1. It’s a War - Kano (1980 / Italy / 06:54)
+2. Standard Planet - Moons (1980 / Italy / 05:47)
+3. I Am A Robot - David Zed (1980 / Italy / 07:12)
+4. If You Weren’t Afraid - Giorgio Moroder (1980 / Italy / 05:41)
+5. Got To Be - Ben Norman (1980 / Italy / 03:44)
+6. If Are You Master - Silvi Foster (1980 / Italy / 06:01)
+7. I’m Dancing All The Night - Navach (1980 / Italy / 05:43)
+8. Casanova - Easy Going (1980 / Italy / 06:55)
+9. Dream Machine - Disco Dream And The Androids (1980 / UK / 09:10)
+10. Give me a Break - Vivien Vee (1980 / Italy / 08:49)
+11. Show Show Show - Marina Marfoglia (1980 / Italy / 04:38)
+12. (One Two Three) Counting On Love - Peter Jacques Band (1980 / Italy / 05:16)
+13. Got Got Money - Five Letters (1980 / France / 08:26)
+14. Any Time or Place - Azoto (1980 / Italy / 06:14)
+15. A Gay Time Latin Lover - Easy Going (1980 / Italy / 08:26)
+16. I’m In Love - Cela (1980 / Italy / 11:01)
+17. I Wanna Be Your Lover - La Bionda (1980 / Italy / 03:15)
+18. Margherita - Massara (1980 / Italy / 07:55)</description>
+      <pubDate>Sun, 14 Feb 2021 20:22:31 +0000</pubDate>
+      <enclosure url="https://chrt.fm/track/84BG1G/obscuro-disco-podcast-files.s3.amazonaws.com/OD-1980.mp3" type="audio/mpeg" length="172586143" />
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:59:51</itunes:duration>
+      <itunes:subtitle>1980 saw Italo Disco music released by some key players including Giorgio Moroder, Kano, Easy Going and Claudio Simonetti, and the La Bionda brothers.</itunes:subtitle>
+      <itunes:summary>We're digging through Italo Disco year-by-year in the 1980s. We're starting with the year 1980. In 1979, Disco faced significant backlash in the United States. In 1980, some Disco acts continued to be released. It would be a few years before Italo Disco really hit its stride in Europe. However, 1980 saw music released by some key players and influencers including Giorgio Moroder, Kano, Easy Going and Claudio Simonetti, and the La Bionda brothers.</itunes:summary>
+      <itunes:author>DJ Dez Disco</itunes:author>
+      <itunes:image href="https://wordpress-disc-files.s3.us-west-2.amazonaws.com/wp-content/uploads/2021/02/14200817/1980-Italo-Disco-300x300.jpeg" />
+    </item>
+  </channel>
+</rss>
